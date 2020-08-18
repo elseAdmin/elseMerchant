@@ -1,7 +1,7 @@
 
 import 'package:elseMerchant/auth/auth.dart';
 import 'package:elseMerchant/auth/auth_provider.dart';
-import 'package:elseMerchant/login_logout_section.dart';
+import 'package:elseMerchant/auth/login_logout_section.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 

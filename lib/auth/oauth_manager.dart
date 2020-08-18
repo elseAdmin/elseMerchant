@@ -6,7 +6,7 @@ import 'package:elseMerchant/auth/auth_provider.dart';
 import 'package:elseMerchant/auth/models/api.dart';
 import 'package:elseMerchant/auth/models/user_crud_model.dart';
 import 'package:elseMerchant/auth/models/user_model.dart';
-import 'package:elseMerchant/register_user.dart';
+import 'package:elseMerchant/auth/register_user.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
