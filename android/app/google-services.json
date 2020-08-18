@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:872110279011:android:5cf2f2d0e52e2c19522b56",
+        "mobilesdk_app_id": "1:872110279011:android:29584b1f11de97d2522b56",
         "android_client_info": {
-          "package_name": "com.elseMerchant.app"
+          "package_name": "com.elseMerchant.app.elseMerchant"
         }
       },
       "oauth_client": [
